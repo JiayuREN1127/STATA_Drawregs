@@ -1,0 +1,11 @@
+---------------------stata.toc----------------
+v 0.01
+
+d Authors: A ZJU student who is being tortured by her undergraduate dissertation
+d Contact: Do NOT Contact Me Please
+d Gitee: https://gitee.com/JiayuREN1127/stata_drawregs
+d 'drawregs': Create Graphs for the Regressions Containing Dummies with Continuous Economic Features.
+d Thanks: https://www.lianxh.cn/
+
+p drawregs
+

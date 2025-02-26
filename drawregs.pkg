@@ -1,0 +1,6 @@
+---------------------drawregs.pkg----------------
+v 0.01 
+d `drawregs` 回归系数可视化：以具连续经济意义的虚拟变量为主要解释变量。
+d Date: 20250218
+f drawregs.ado
+f drawregs.sthlp
