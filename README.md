@@ -35,6 +35,6 @@
     The Author is not confident about this .ado file at all and takes no responsibility for the command. 
     作者对这个.ado文件没有信心且对它不负责。
     
-    However, you can still contact the author by sending messages on the Gitee platform or through the WeChat official account: 姜瑾AXiS.
-    不过您仍然可以通过在gitee平台私信或微信公众号（姜瑾AXiS）联系作者。
+    However, you can still contact the author by sending messages on the Github platform or through the WeChat official account: 姜瑾AXiS.
+    不过您仍然可以通过在Github平台私信或微信公众号（姜瑾AXiS）联系作者。
 
